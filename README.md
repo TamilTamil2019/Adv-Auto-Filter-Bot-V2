@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://github.com/AlbertEinsteinTG/af-deploy-script">
+<a href="https://github.com/TamilTamil2019/Adv-Auto-Filter-Bot-V2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2
+git clone https://github.com/TamilTamil2019/Adv-Auto-Filter-Bot-V2
 cd Adv-Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/Team_idiots) For Support/Assistance And Our [Channel](https://www.telegram.dog/Team_idiots) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
